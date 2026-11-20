@@ -6,7 +6,7 @@ FORMA is a fictional smartphone product experience focused on premium visual pre
 
 Live Demo
 
-"Launch FORMA" (https://forma-smartphone-product-experience-c4f77p.v2.appdeploy.ai/)
+Launch FORMA - formamock.vercel.app⁠
 
 Features
 
